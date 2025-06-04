@@ -1,6 +1,6 @@
 - 👋 Oi, Meu nome é Ygor Stefankowski da Silva.
 - 👀 Gosto de carros, motos, me identifico com o estilo DIY tanto profissionalmente quanto pessoalmente.
-- 🌱 Ultimamente estou aprendendo Laravel com PostgreeSQL.
+- 🌱 Ultimamente estou aprendendo React com Node.js e Laravel com PostgreeSQL.
 - 💞️ Sempre procuro colaborar com a comunidade como eu posso.
 - 📫 Meu e-mail de contato é ygor.stefan@gmail.com.
 
